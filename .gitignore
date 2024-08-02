@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 # certbot
 certbot/*
+letsencrypt/*
